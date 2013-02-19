@@ -1,4 +1,3 @@
-
 # |      - 1 -     |                 |                 |
 # |     -- 2 --    |                 |                 |
 # |    --- 3 ---   |                 |                 |
@@ -64,4 +63,5 @@ move_disc($b,$c)
 move_disc($a,$b)
 move_disc($a,$c)
 move_disc($b,$c)
+peg
 
